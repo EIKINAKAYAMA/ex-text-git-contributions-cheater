@@ -88,3 +88,5 @@ Contribution: 2001-05-20 00:00
 
 Contribution: 2001-05-31 00:00
 
+Contribution: 2001-06-01 00:00
+
